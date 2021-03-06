@@ -1,9 +1,9 @@
 # Vercel
 [Docs](https://vercel.com/docs)
-# Bitbucket
-[Website](https://bitbucket.org)
 # Git
 [Docs](https://git-scm.com/doc)
+# Bitbucket
+[Website](https://bitbucket.org)
 # React.js
 [Docs](https://reactjs.org/docs/getting-started.html)
 # Next.js
