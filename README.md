@@ -2,6 +2,9 @@
 [Website](https://www.adobe.com/creativecloud.html)
 # Adobe XD
 [Website](https://www.adobe.com/products/xd.html)
+# AWS
+[Website](http://aws.amazon.com/)
+[Console](https://aws.amazon.com/console/)
 # Vercel
 [Docs](https://vercel.com/docs)
 # Git
