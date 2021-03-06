@@ -2,6 +2,8 @@
 [Docs](https://vercel.com/docs)
 # Git
 [Docs](https://git-scm.com/doc)
+# Github Education
+[Get Pack](https://education.github.com/pack/offers)
 # Bitbucket
 [Website](https://bitbucket.org)
 # React.js
